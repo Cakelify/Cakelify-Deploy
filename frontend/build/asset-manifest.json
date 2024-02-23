@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2df2e9eb.css",
+    "main.js": "/static/js/main.b25b83ce.js",
+    "static/js/703.dd222d96.chunk.js": "/static/js/703.dd222d96.chunk.js",
+    "static/js/198.701b915e.chunk.js": "/static/js/198.701b915e.chunk.js",
+    "static/media/EmptyCart.png": "/static/media/EmptyCart.7664fe40e1931409b380.png",
+    "static/media/Instagram_icon.png.webp": "/static/media/Instagram_icon.png.1d6d0317700c4f0c95b7.webp",
+    "static/media/Crown.png": "/static/media/Crown.50c54f3cffbde433e1a8.png",
+    "static/media/Cakes.png": "/static/media/Cakes.978707ddee87e87a8734.png",
+    "static/media/CakelifyLogo.png": "/static/media/CakelifyLogo.4b2c6adeba07fd360c95.png",
+    "static/media/pastry.png": "/static/media/pastry.05da4641d7976d54027f.png",
+    "static/media/JarCakes.png": "/static/media/JarCakes.6b3d22403ddd687a169a.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.2df2e9eb.css.map": "/static/css/main.2df2e9eb.css.map",
+    "main.b25b83ce.js.map": "/static/js/main.b25b83ce.js.map",
+    "703.dd222d96.chunk.js.map": "/static/js/703.dd222d96.chunk.js.map",
+    "198.701b915e.chunk.js.map": "/static/js/198.701b915e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df2e9eb.css",
+    "static/js/main.b25b83ce.js"
+  ]
+}
